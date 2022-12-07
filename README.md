@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alekswit
-- 👀 I’m interested in developing my pyhton and SQL skillset 
+- 👀 I’m interested in developing my python and SQL skillset 
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on beginner python and SQL projects
 - 📫 How to reach me ...
